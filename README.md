@@ -33,14 +33,14 @@
 ```
 $ composer require shampeak/Grace
 ```
-或下载打包好的文件[下载](http://docs.slimframework.com/#Installation)
+或下载打包好的文件[下载](https://github.com/shampeak/GracePHP/archive/master.zip)
 
 更多请访问 [More](安装.md)
 
 
 ## 使用
 
-请阅读文档 [文档](http://docs.slimframework.com/#Installation)
+请阅读文档 [文档](https://github.com/shampeak/GracePHP/tree/master/docs)
 
 ## 文档
 
