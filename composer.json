@@ -1,0 +1,29 @@
+{
+    "name": "grace/demo",
+    "description": "dev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shampeak",
+            "email": "shampeak@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=5.5.9",
+        "monolog/monolog": "^1.19",
+        "phpunit/phpunit": "4.4.0",
+        "lulu/db-driver": "^1.0@dev"
+    },
+    "autoload":{
+        "files": ["src/Helper.php"],
+        "psr-4":{
+            "Grace\\": "src",
+            "App\\": "App"
+        },
+        "psr-0":{
+            "Silk\\lib":"lib/"
+        }
+    }
+}
