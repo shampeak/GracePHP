@@ -57,6 +57,7 @@ $ composer require shampeak/Grace
 GracePHP由shampeak研发小组独立研发
 组员
 - [Shampeak](https://github.com/shampeak/).
+- [Lulu](https://github.com/siluzhou).
 
 
 ## 协议
