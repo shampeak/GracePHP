@@ -35,7 +35,7 @@ $ composer require shampeak/Grace
 ```
 或下载打包好的文件[下载](https://github.com/shampeak/GracePHP/archive/master.zip)
 
-更多请访问 [More](安装.md)
+更多请访问 [More](INSTALL.md)
 
 
 ## 使用
