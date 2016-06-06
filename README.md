@@ -25,18 +25,11 @@
 
 ## 安装
 
-你可以使用Composer进行安装
-[安装Grace](https://github.com/shampeak/GracePHP/blob/master/docs/INSTALL.md)
+下载打包好的文件[下载](https://github.com/shampeak/GracePHP/archive/master.zip)
 
-使用Composer安装 `shampeak/Grace`.
-
-```
-$ composer require shampeak/Grace
-```
-或下载打包好的文件[下载](https://github.com/shampeak/GracePHP/archive/master.zip)
+通过git直接clone项目,master分支为稳定版本，develop分支为开发版本，可能会有一些实验性的功能。
 
 更多请访问 [More](INSTALL.md)
-
 
 ## 使用
 
