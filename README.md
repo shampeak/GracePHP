@@ -47,9 +47,7 @@ $ composer require shampeak/Grace
 全文档支持站点  [PHPleague](http://doc.phpleague.cn).
 任何反馈意见请在github上提交Issues [PHPleague](http://doc.phpleague.cn).
 
-## Contributing
 
-Contributions are welcome and will be fully credited. Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details.
 
 ## 安全
 如果发现任何漏洞或者安全问题,请不要提交Issues,发邮件给我 shampeak@sina.com
