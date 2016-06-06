@@ -141,7 +141,8 @@
     if (! function_exists('assign')) {
         function assign($key = null, $value = [])
         {
-            return app('View')->assign($key, $value);
+            return app('Smarty')->router(req('Router'))->assign($key, $value);
+//            return app('View')->assign($key, $value);
         }
     }
 
@@ -149,7 +150,8 @@
     if (! function_exists('view')) {
         function view($tpl = null, $data = [])
         {
-            return app('View')->display($tpl, $data);
+//            return app('View')->display($tpl, $data);
+            return app('Smarty')->router(req('Router'))->display($tpl, $data);
         }
     }
 
