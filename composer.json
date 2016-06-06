@@ -13,7 +13,6 @@
     "require": {
         "php" : ">=5.5.9",
         "monolog/monolog": "^1.19",
-        "phpunit/phpunit": "4.4.0",
         "lulu/db-driver": "^1.0@dev"
     },
     "autoload":{
