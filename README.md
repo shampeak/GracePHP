@@ -45,7 +45,14 @@ $ composer require shampeak/Grace
 ## 文档
 
 全文档支持站点  [PHPleague](http://doc.phpleague.cn).
-任何反馈意见请在github上提交Issues [PHPleague](http://doc.phpleague.cn).
+
+
+- 说明
+- 安装
+
+
+
+任何反馈意见请提交 [Issues](https://github.com/shampeak/GracePHP/issues).
 
 
 
