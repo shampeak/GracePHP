@@ -49,18 +49,67 @@
         ]
     },
     {
+        "name": "lulu/db-driver",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/siluzhou/DBDriver.git",
+            "reference": "19024b1ea6e69c04ffb3ceefc9ede9312c5bc8af"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/siluzhou/DBDriver/zipball/19024b1ea6e69c04ffb3ceefc9ede9312c5bc8af",
+            "reference": "19024b1ea6e69c04ffb3ceefc9ede9312c5bc8af",
+            "shasum": ""
+        },
+        "require": {
+            "ext-mbstring": "*",
+            "monolog/monolog": "~1.7",
+            "php": ">=5.4"
+        },
+        "time": "2016-06-12 09:19:13",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Lulu\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "siluzhou",
+                "email": "siluzhou_pku@163.com"
+            }
+        ],
+        "description": "DBDriver",
+        "keywords": [
+            "database",
+            "pdo"
+        ]
+    },
+    {
         "name": "monolog/monolog",
         "version": "1.x-dev",
         "version_normalized": "1.9999999.9999999.9999999-dev",
         "source": {
             "type": "git",
             "url": "https://github.com/Seldaek/monolog.git",
-            "reference": "39aeecefaeacb43b7315399f37aee63b34930ec1"
+            "reference": "33df7889304575a7912935ada1beab36fa85a5d9"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/39aeecefaeacb43b7315399f37aee63b34930ec1",
-            "reference": "39aeecefaeacb43b7315399f37aee63b34930ec1",
+            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/33df7889304575a7912935ada1beab36fa85a5d9",
+            "reference": "33df7889304575a7912935ada1beab36fa85a5d9",
             "shasum": ""
         },
         "require": {
@@ -96,7 +145,7 @@
             "ruflin/elastica": "Allow sending log messages to an Elastic Search server",
             "sentry/sentry": "Allow sending log messages to a Sentry server"
         },
-        "time": "2016-05-26 21:44:25",
+        "time": "2016-06-11 15:09:14",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -126,55 +175,6 @@
             "log",
             "logging",
             "psr-3"
-        ]
-    },
-    {
-        "name": "lulu/db-driver",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/siluzhou/DBDriver.git",
-            "reference": "3dbf43c65261feaea7fc139cd9fc7349db62d273"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/siluzhou/DBDriver/zipball/3dbf43c65261feaea7fc139cd9fc7349db62d273",
-            "reference": "3dbf43c65261feaea7fc139cd9fc7349db62d273",
-            "shasum": ""
-        },
-        "require": {
-            "ext-mbstring": "*",
-            "monolog/monolog": "~1.7",
-            "php": ">=5.4"
-        },
-        "time": "2016-06-05 13:23:15",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.0.x-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Lulu\\": "src"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "siluzhou",
-                "email": "siluzhou_pku@163.com"
-            }
-        ],
-        "description": "DBDriver",
-        "keywords": [
-            "database",
-            "pdo"
         ]
     }
 ]
