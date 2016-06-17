@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/siluzhou/DBDriver.git",
-                "reference": "3dbf43c65261feaea7fc139cd9fc7349db62d273"
+                "reference": "d95c588b215c6a970a49d26760bc20ebbfc7d8fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/siluzhou/DBDriver/zipball/3dbf43c65261feaea7fc139cd9fc7349db62d273",
-                "reference": "3dbf43c65261feaea7fc139cd9fc7349db62d273",
+                "url": "https://api.github.com/repos/siluzhou/DBDriver/zipball/d95c588b215c6a970a49d26760bc20ebbfc7d8fa",
+                "reference": "d95c588b215c6a970a49d26760bc20ebbfc7d8fa",
                 "shasum": ""
             },
             "require": {
@@ -52,7 +52,7 @@
                 "database",
                 "pdo"
             ],
-            "time": "2016-06-05 13:23:15"
+            "time": "2016-06-13 09:57:05"
         },
         {
             "name": "monolog/monolog",
@@ -60,12 +60,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "39aeecefaeacb43b7315399f37aee63b34930ec1"
+                "reference": "33df7889304575a7912935ada1beab36fa85a5d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/39aeecefaeacb43b7315399f37aee63b34930ec1",
-                "reference": "39aeecefaeacb43b7315399f37aee63b34930ec1",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/33df7889304575a7912935ada1beab36fa85a5d9",
+                "reference": "33df7889304575a7912935ada1beab36fa85a5d9",
                 "shasum": ""
             },
             "require": {
@@ -130,7 +130,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2016-05-26 21:44:25"
+            "time": "2016-06-11 15:09:14"
         },
         {
             "name": "psr/log",
