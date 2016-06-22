@@ -50,4 +50,4 @@ Temporary Items
 .gitignore.bak
 .svn
 .idea
-www/phpMyAdmin
+wwwroot/phpMyAdmin
